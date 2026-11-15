@@ -1,9 +1,8 @@
-[siatkówka_mojehobby.html](https://github.com/user-attachments/files/34884727/siatkowka_mojehobby.html)
+(https://github.com/user-attachments/files/34884727/siatkowka_mojehobby.html)
 # Moje-hobby<!DOCTYPE html>
 <html lang="pl">
 <head>
      <meta charset="UTF-8">
-     <title>Moje hobby: Siatkówka</title>
 </head>
 <body>
 
